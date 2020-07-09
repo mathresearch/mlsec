@@ -1,2 +1,2 @@
 # mlsec
-A repository with Jupyter notebooks in TF, Pytorch and MxNet
+A repository with Jupyter notebooks in TensorFlow, PyTorch and MXNet.
